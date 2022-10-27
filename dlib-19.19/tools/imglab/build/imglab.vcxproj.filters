@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\metadata_editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_pascal_xml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_pascal_v1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_idl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\cluster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\flip_dataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\metadata_editor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_pascal_xml.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_pascal_v1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\convert_idl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\src\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93555A3E-2316-305C-8D18-9BF562F6B619}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{670AB8E5-8E2D-3BB5-98BF-E99378EE7CAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

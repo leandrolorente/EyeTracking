@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a52c2187-a429-4d03-b973-658c1990d324" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rastreamentoOcular" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azIZKSNOXxAj79Rf8AKYrSqSAr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Eye-Tracker-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leandro\.conda\envs\rastreamentoOcular\recursos" />
+      <recent name="C:\Users\Leandro\Documents\algoritmosDlib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.detect_eye">
+    <configuration name="RastreioPupila" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rastreamentoOcular" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RastreioPupila.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_blinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rastreamentoOcular" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_blinks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_eye" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rastreamentoOcular" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_eye.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rastreamentoOcular" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="olhos_webcam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rastreamentoOcular" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/olhos_webcam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.RastreioPupila" />
+      <item itemvalue="Python.detect_blinks" />
+      <item itemvalue="Python.detect_eye" />
+      <item itemvalue="Python.index" />
+      <item itemvalue="Python.olhos_webcam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect_eye" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.RastreioPupila" />
+        <item itemvalue="Python.detect_blinks" />
+        <item itemvalue="Python.olhos_webcam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52c2187-a429-4d03-b973-658c1990d324" name="Default Changelist" comment="" />
+      <created>1587732049910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587732049910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-938" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602194761365">
+      <screen x="-1366" y="138" width="1366" height="728" />
+    </state>
+    <state x="-938" y="305" key="#com.intellij.fileTypes.FileTypeChooser/-1366.138.1366.728/0.0.1600.860@-1366.138.1366.728" timestamp="1602194761365" />
+    <state width="1598" height="198" key="DebuggerActiveHint" timestamp="1607482867062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1598" height="198" key="DebuggerActiveHint/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607482867062" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1606261650067">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1606261650067" />
+    <state width="1579" height="188" key="GridCell.Tab.0.bottom" timestamp="1607605899347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom/-1366.138.1366.728/0.0.1600.860@-1366.138.1366.728" timestamp="1602804474153" />
+    <state width="1579" height="188" key="GridCell.Tab.0.bottom/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607605899347" />
+    <state width="1579" height="188" key="GridCell.Tab.0.center" timestamp="1607605899346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.center/-1366.138.1366.728/0.0.1600.860@-1366.138.1366.728" timestamp="1602804474153" />
+    <state width="1579" height="188" key="GridCell.Tab.0.center/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607605899346" />
+    <state width="1579" height="188" key="GridCell.Tab.0.left" timestamp="1607605899346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.left/-1366.138.1366.728/0.0.1600.860@-1366.138.1366.728" timestamp="1602804474153" />
+    <state width="1579" height="188" key="GridCell.Tab.0.left/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607605899346" />
+    <state width="1579" height="188" key="GridCell.Tab.0.right" timestamp="1607605899346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.right/-1366.138.1366.728/0.0.1600.860@-1366.138.1366.728" timestamp="1602804474153" />
+    <state width="1579" height="188" key="GridCell.Tab.0.right/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607605899346" />
+    <state width="1579" height="279" key="GridCell.Tab.1.bottom" timestamp="1607601252265">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="279" key="GridCell.Tab.1.bottom/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607601252265" />
+    <state width="1579" height="279" key="GridCell.Tab.1.center" timestamp="1607601252264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="279" key="GridCell.Tab.1.center/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607601252264" />
+    <state width="1579" height="279" key="GridCell.Tab.1.left" timestamp="1607601252264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="279" key="GridCell.Tab.1.left/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607601252264" />
+    <state width="1579" height="279" key="GridCell.Tab.1.right" timestamp="1607601252264">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="279" key="GridCell.Tab.1.right/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1607601252264" />
+    <state x="503" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606176884316">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="503" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1606176884316" />
+    <state x="-1272" y="178" width="1132" height="594" maximized="true" key="dock-window-1" timestamp="1600349386769">
+      <screen x="-1366" y="138" width="1366" height="728" />
+    </state>
+    <state x="-1272" y="178" width="1132" height="594" maximized="true" key="dock-window-1/-1366.138.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1600349386769" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/detect_eye.py</url>
+          <line>480</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/index.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/index.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

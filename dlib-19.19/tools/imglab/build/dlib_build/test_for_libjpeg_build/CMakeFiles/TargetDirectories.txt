@@ -1,0 +1,3 @@
+C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/test_for_libjpeg_build/CMakeFiles/libjpeg_test.dir
+C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/test_for_libjpeg_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/test_for_libjpeg_build/CMakeFiles/ZERO_CHECK.dir

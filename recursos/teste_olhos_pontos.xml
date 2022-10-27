@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../olhos_teste\teste_1.jpg'>
+    <box top='254' left='185' width='76' height='39'>
+      <part name='1' x='227' y='269'/>
+      <part name='2' x='226' y='260'/>
+      <part name='3' x='239' y='263'/>
+      <part name='4' x='239' y='276'/>
+      <part name='5' x='228' y='281'/>
+      <part name='6' x='215' y='276'/>
+      <part name='7' x='213' y='269'/>
+      <part name='8' x='215' y='261'/>
+    </box>
+    <box top='258' left='328' width='84' height='48'>
+      <part name='1' x='365' y='281'/>
+      <part name='2' x='365' y='270'/>
+      <part name='3' x='378' y='274'/>
+      <part name='4' x='377' y='286'/>
+      <part name='5' x='366' y='292'/>
+      <part name='6' x='353' y='288'/>
+      <part name='7' x='352' y='279'/>
+      <part name='8' x='354' y='271'/>
+    </box>
+  </image>
+  <image file='../olhos_teste\teste_2.jpg'>
+    <box top='96' left='181' width='78' height='43'>
+      <part name='1' x='223' y='116'/>
+      <part name='2' x='223' y='104'/>
+      <part name='3' x='235' y='108'/>
+      <part name='4' x='235' y='121'/>
+      <part name='5' x='223' y='128'/>
+      <part name='6' x='211' y='124'/>
+      <part name='7' x='207' y='116'/>
+      <part name='8' x='210' y='107'/>
+    </box>
+    <box top='88' left='325' width='79' height='41'>
+      <part name='1' x='364' y='105'/>
+      <part name='2' x='364' y='91'/>
+      <part name='3' x='376' y='96'/>
+      <part name='4' x='378' y='107'/>
+      <part name='5' x='368' y='117'/>
+      <part name='6' x='354' y='114'/>
+      <part name='7' x='350' y='105'/>
+      <part name='8' x='353' y='95'/>
+    </box>
+  </image>
+  <image file='../olhos_teste\teste_3.jpg'>
+    <box top='163' left='336' width='47' height='27'>
+      <part name='1' x='366' y='176'/>
+      <part name='2' x='366' y='171'/>
+      <part name='3' x='372' y='173'/>
+      <part name='4' x='374' y='179'/>
+      <part name='5' x='368' y='183'/>
+      <part name='6' x='360' y='181'/>
+      <part name='7' x='356' y='176'/>
+      <part name='8' x='358' y='171'/>
+    </box>
+    <box top='164' left='423' width='56' height='30'>
+      <part name='1' x='455' y='177'/>
+      <part name='2' x='454' y='172'/>
+      <part name='3' x='461' y='175'/>
+      <part name='4' x='463' y='180'/>
+      <part name='5' x='457' y='183'/>
+      <part name='6' x='449' y='184'/>
+      <part name='7' x='444' y='180'/>
+      <part name='8' x='445' y='173'/>
+    </box>
+  </image>
+  <image file='../olhos_teste\teste_4.jpg'>
+    <box top='302' left='441' width='43' height='28'>
+      <part name='1' x='465' y='314'/>
+      <part name='2' x='466' y='309'/>
+      <part name='3' x='473' y='311'/>
+      <part name='4' x='472' y='316'/>
+      <part name='5' x='467' y='320'/>
+      <part name='6' x='460' y='320'/>
+      <part name='7' x='457' y='315'/>
+      <part name='8' x='458' y='309'/>
+    </box>
+    <box top='319' left='517' width='42' height='23'>
+      <part name='1' x='538' y='329'/>
+      <part name='2' x='538' y='323'/>
+      <part name='3' x='544' y='326'/>
+      <part name='4' x='545' y='332'/>
+      <part name='5' x='540' y='335'/>
+      <part name='6' x='533' y='333'/>
+      <part name='7' x='530' y='329'/>
+      <part name='8' x='531' y='324'/>
+    </box>
+  </image>
+  <image file='../olhos_teste\teste_5.jpg'>
+    <box top='306' left='285' width='129' height='58'>
+      <part name='1' x='339' y='330'/>
+      <part name='2' x='339' y='315'/>
+      <part name='3' x='358' y='313'/>
+      <part name='4' x='362' y='330'/>
+      <part name='5' x='347' y='343'/>
+      <part name='6' x='326' y='342'/>
+      <part name='7' x='318' y='331'/>
+      <part name='8' x='327' y='321'/>
+    </box>
+    <box top='240' left='503' width='104' height='56'>
+      <part name='1' x='536' y='265'/>
+      <part name='2' x='540' y='252'/>
+      <part name='3' x='556' y='252'/>
+      <part name='4' x='558' y='265'/>
+      <part name='5' x='542' y='279'/>
+      <part name='6' x='529' y='280'/>
+      <part name='7' x='518' y='271'/>
+      <part name='8' x='529' y='259'/>
+    </box>
+  </image>
+</images>
+</dataset>

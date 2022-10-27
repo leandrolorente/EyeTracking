@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\build\CMakeFiles\dc95e2a8d5cfda67cc81038c1a1314cc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4B725BC7-056F-3176-A1EB-1BD76EBFEB77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

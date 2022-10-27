@@ -1,0 +1,10 @@
+^C:\USERS\LEANDRO\DESKTOP\ALGORITMOSDLIB\DLIB-19.19\DLIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab -BC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build --check-stamp-file C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

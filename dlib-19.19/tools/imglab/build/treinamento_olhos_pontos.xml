@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../olhos_treinamento\treinamento_1.jpg'>
+    <box top='95' left='312' width='193' height='104'>
+      <part name='1' x='413' y='140'/>
+      <part name='2' x='408' y='117'/>
+      <part name='3' x='439' y='128'/>
+      <part name='4' x='437' y='152'/>
+      <part name='5' x='422' y='167'/>
+      <part name='6' x='398' y='165'/>
+      <part name='7' x='385' y='154'/>
+      <part name='8' x='382' y='135'/>
+    </box>
+    <box top='95' left='607' width='182' height='104'>
+      <part name='1' x='694' y='135'/>
+      <part name='2' x='693' y='118'/>
+      <part name='3' x='717' y='119'/>
+      <part name='4' x='722' y='142'/>
+      <part name='5' x='705' y='161'/>
+      <part name='6' x='680' y='159'/>
+      <part name='7' x='668' y='145'/>
+      <part name='8' x='666' y='131'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_2.jpg'>
+    <box top='19' left='279' width='89' height='77'>
+      <part name='1' x='320' y='48'/>
+      <part name='2' x='322' y='31'/>
+      <part name='3' x='337' y='44'/>
+      <part name='4' x='334' y='60'/>
+      <part name='5' x='323' y='68'/>
+      <part name='6' x='309' y='63'/>
+      <part name='7' x='303' y='51'/>
+      <part name='8' x='304' y='39'/>
+    </box>
+    <box top='34' left='463' width='116' height='64'>
+      <part name='1' x='513' y='60'/>
+      <part name='2' x='512' y='42'/>
+      <part name='3' x='531' y='51'/>
+      <part name='4' x='531' y='71'/>
+      <part name='5' x='518' y='81'/>
+      <part name='6' x='498' y='76'/>
+      <part name='7' x='491' y='64'/>
+      <part name='8' x='493' y='49'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_3.jpg'>
+    <box top='117' left='175' width='144' height='72'>
+      <part name='1' x='247' y='149'/>
+      <part name='2' x='247' y='132'/>
+      <part name='3' x='266' y='140'/>
+      <part name='4' x='265' y='160'/>
+      <part name='5' x='251' y='170'/>
+      <part name='6' x='232' y='166'/>
+      <part name='7' x='224' y='156'/>
+      <part name='8' x='224' y='142'/>
+    </box>
+    <box top='130' left='413' width='124' height='66'>
+      <part name='1' x='477' y='159'/>
+      <part name='2' x='478' y='143'/>
+      <part name='3' x='498' y='149'/>
+      <part name='4' x='499' y='166'/>
+      <part name='5' x='489' y='178'/>
+      <part name='6' x='471' y='180'/>
+      <part name='7' x='459' y='169'/>
+      <part name='8' x='456' y='155'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_4.jpg'>
+    <box top='900' left='340' width='205' height='88'>
+      <part name='1' x='449' y='930'/>
+      <part name='2' x='446' y='905'/>
+      <part name='3' x='477' y='910'/>
+      <part name='4' x='483' y='935'/>
+      <part name='5' x='466' y='957'/>
+      <part name='6' x='436' y='962'/>
+      <part name='7' x='414' y='948'/>
+      <part name='8' x='407' y='924'/>
+    </box>
+    <box top='841' left='762' width='237' height='73'>
+      <part name='1' x='879' y='862'/>
+      <part name='2' x='881' y='841'/>
+      <part name='3' x='915' y='848'/>
+      <part name='4' x='917' y='879'/>
+      <part name='5' x='894' y='894'/>
+      <part name='6' x='857' y='897'/>
+      <part name='7' x='841' y='877'/>
+      <part name='8' x='843' y='855'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_5.jpg'>
+    <box top='333' left='153' width='107' height='60'>
+      <part name='1' x='209' y='364'/>
+      <part name='2' x='209' y='351'/>
+      <part name='3' x='222' y='358'/>
+      <part name='4' x='224' y='370'/>
+      <part name='5' x='216' y='377'/>
+      <part name='6' x='202' y='377'/>
+      <part name='7' x='192' y='370'/>
+      <part name='8' x='194' y='357'/>
+    </box>
+    <box top='357' left='342' width='98' height='42'>
+      <part name='1' x='392' y='379'/>
+      <part name='2' x='392' y='366'/>
+      <part name='3' x='404' y='372'/>
+      <part name='4' x='407' y='382'/>
+      <part name='5' x='399' y='390'/>
+      <part name='6' x='389' y='391'/>
+      <part name='7' x='376' y='383'/>
+      <part name='8' x='378' y='372'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_6.jpg'>
+    <box top='136' left='298' width='23' height='13'>
+      <part name='1' x='307' y='142'/>
+      <part name='2' x='307' y='138'/>
+      <part name='3' x='312' y='140'/>
+      <part name='4' x='312' y='143'/>
+      <part name='5' x='310' y='146'/>
+      <part name='6' x='306' y='147'/>
+      <part name='7' x='303' y='143'/>
+      <part name='8' x='304' y='140'/>
+    </box>
+    <box top='136' left='342' width='21' height='12'>
+      <part name='1' x='354' y='143'/>
+      <part name='2' x='354' y='140'/>
+      <part name='3' x='357' y='140'/>
+      <part name='4' x='358' y='143'/>
+      <part name='5' x='356' y='146'/>
+      <part name='6' x='353' y='147'/>
+      <part name='7' x='350' y='144'/>
+      <part name='8' x='351' y='141'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_7.jpg'>
+    <box top='108' left='138' width='259' height='159'>
+      <part name='1' x='280' y='180'/>
+      <part name='2' x='281' y='158'/>
+      <part name='3' x='314' y='171'/>
+      <part name='4' x='310' y='204'/>
+      <part name='5' x='285' y='218'/>
+      <part name='6' x='252' y='211'/>
+      <part name='7' x='242' y='192'/>
+      <part name='8' x='242' y='169'/>
+    </box>
+    <box top='138' left='566' width='261' height='123'>
+      <part name='1' x='699' y='185'/>
+      <part name='2' x='700' y='164'/>
+      <part name='3' x='736' y='172'/>
+      <part name='4' x='733' y='205'/>
+      <part name='5' x='715' y='224'/>
+      <part name='6' x='685' y='220'/>
+      <part name='7' x='662' y='200'/>
+      <part name='8' x='667' y='173'/>
+    </box>
+  </image>
+</images>
+</dataset>

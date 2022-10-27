@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='olhos_treinamento\treinamento_1.jpg'>
+    <box top='101' left='322' width='173' height='92'/>
+    <box top='100' left='602' width='181' height='91'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_2.jpg'>
+    <box top='22' left='277' width='87' height='64'/>
+    <box top='28' left='454' width='130' height='71'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_3.jpg'>
+    <box top='119' left='183' width='134' height='66'/>
+    <box top='118' left='404' width='142' height='81'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_4.jpg'>
+    <box top='888' left='312' width='241' height='105'/>
+    <box top='828' left='736' width='273' height='105'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_5.jpg'>
+    <box top='336' left='168' width='81' height='61'/>
+    <box top='348' left='352' width='105' height='57'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_6.jpg'>
+    <box top='134' left='296' width='24' height='15'/>
+    <box top='136' left='342' width='26' height='14'/>
+  </image>
+  <image file='olhos_treinamento\treinamento_7.jpg'>
+    <box top='134' left='158' width='231' height='131'/>
+    <box top='128' left='592' width='231' height='147'/>
+  </image>
+</images>
+</dataset>

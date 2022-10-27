@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Leandro\Desktop\algoritmosDlib\dlib-19.19\tools\imglab\build\dlib_build\test_for_libpng_build\CMakeFiles\e39e09ea2fe622854ef808a33832fd1d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B13A0BD5-C3CE-3881-ABBC-9460B316E09F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

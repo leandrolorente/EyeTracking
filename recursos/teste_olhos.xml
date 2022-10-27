@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../olhos_teste\teste_1.jpg'>
+    <box top='255' left='184' width='76' height='36'/>
+    <box top='263' left='326' width='84' height='39'/>
+  </image>
+  <image file='../olhos_teste\teste_2.jpg'>
+    <box top='98' left='180' width='78' height='39'/>
+    <box top='86' left='318' width='89' height='40'/>
+  </image>
+  <image file='../olhos_teste\teste_3.jpg'>
+    <box top='166' left='340' width='42' height='23'/>
+    <box top='166' left='425' width='50' height='23'/>
+  </image>
+  <image file='../olhos_teste\teste_4.jpg'>
+    <box top='301' left='442' width='39' height='25'/>
+    <box top='319' left='521' width='38' height='22'/>
+  </image>
+  <image file='../olhos_teste\teste_5.jpg'>
+    <box top='307' left='295' width='119' height='51'/>
+    <box top='241' left='510' width='88' height='56'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,10 @@
+^C:\USERS\LEANDRO\DESKTOP\ALGORITMOSDLIB\DLIB-19.19\TOOLS\IMGLAB\BUILD\DLIB_BUILD\TEST_FOR_LIBPNG_BUILD\CMAKEFILES\E39E09EA2FE622854EF808A33832FD1D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/dlib/cmake_utils/test_for_libpng -BC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/test_for_libpng_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/dlib_build/test_for_libpng_build/test_if_libpng_is_broken.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

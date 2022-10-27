@@ -1,0 +1,10 @@
+^C:\USERS\LEANDRO\DESKTOP\ALGORITMOSDLIB\DLIB-19.19\TOOLS\IMGLAB\BUILD\CMAKEFILES\DC95E2A8D5CFDA67CC81038C1A1314CC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab -BC:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Leandro/Desktop/algoritmosDlib/dlib-19.19/tools/imglab/build/imglab.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../olhos_treinamento\treinamento_1.jpg'>
+  	<box top='98' left='313' width='187' height='105'>
+      <part name='1' x='413' y='140'/>
+      <part name='2' x='412' y='120'/>
+      <part name='3' x='440' y='143'/>
+      <part name='4' x='414' y='168'/>
+      <part name='5' x='382' y='143'/>
+    </box>
+    <box top='98' left='624' width='161' height='105'>
+      <part name='1' x='694' y='135'/>
+      <part name='2' x='693' y='114'/>
+      <part name='3' x='722' y='136'/>
+      <part name='4' x='695' y='163'/>
+      <part name='5' x='666' y='140'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_2.jpg'>
+  	<box top='564' left='411' width='115' height='67'>
+      <part name='1' x='494' y='596'/>
+      <part name='2' x='492' y='584'/>
+      <part name='3' x='507' y='596'/>
+      <part name='4' x='496' y='607'/>
+      <part name='5' x='478' y='599'/>
+    </box>
+    <box top='547' left='604' width='107' height='76'>
+      <part name='1' x='675' y='583'/>
+      <part name='2' x='675' y='575'/>
+      <part name='3' x='687' y='585'/>
+      <part name='4' x='676' y='598'/>
+      <part name='5' x='663' y='585'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_3.jpg'>
+  	<box top='84' left='83' width='166' height='109'>
+      <part name='1' x='197' y='137'/>
+      <part name='2' x='198' y='119'/>
+      <part name='3' x='222' y='142'/>
+      <part name='4' x='199' y='161'/>
+      <part name='5' x='169' y='136'/>
+    </box>
+    <box top='85' left='362' width='173' height='99'>
+      <part name='1' x='469' y='133'/>
+      <part name='2' x='468' y='115'/>
+      <part name='3' x='492' y='135'/>
+      <part name='4' x='471' y='158'/>
+      <part name='5' x='440' y='135'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_4.jpg'>
+  	 <box top='212' left='70' width='339' height='185'>
+      <part name='1' x='182' y='308'/>
+      <part name='2' x='179' y='260'/>
+      <part name='3' x='237' y='310'/>
+      <part name='4' x='181' y='351'/>
+      <part name='5' x='129' y='311'/>
+    </box>
+    <box top='218' left='607' width='336' height='181'>
+      <part name='1' x='722' y='310'/>
+      <part name='2' x='719' y='272'/>
+      <part name='3' x='778' y='310'/>
+      <part name='4' x='725' y='349'/>
+      <part name='5' x='670' y='320'/>
+    </box>
+  </image>
+  <image file='../olhos_treinamento\treinamento_5.jpg'>
+  	<box top='114' left='100' width='142' height='80'>
+      <part name='1' x='173' y='149'/>
+      <part name='2' x='171' y='133'/>
+      <part name='3' x='201' y='154'/>
+      <part name='4' x='174' y='178'/>
+      <part name='5' x='141' y='153'/>
+    </box>
+    <box top='113' left='382' width='147' height='84'>
+      <part name='1' x='453' y='151'/>
+      <part name='2' x='452' y='134'/>
+      <part name='3' x='482' y='154'/>
+      <part name='4' x='456' y='179'/>
+      <part name='5' x='423' y='156'/>
+    </box>
+  </image>
+</images>
+</dataset>
