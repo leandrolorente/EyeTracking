@@ -1,4 +1,4 @@
-# BlinkDetector
+# Eye Tracking
 
 Neste projeto, mostro como construir um rastreador de olhos usando OpenCV, Python e dlib.
 
